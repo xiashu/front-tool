@@ -1,0 +1,2 @@
+city.m 和city.plist 为城市列表，用于iphone做相关的选项所用
+city.php 为显示城市列表的图
